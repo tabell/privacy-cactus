@@ -305,7 +305,6 @@ span.code { font-family:Menlo, Monaco, Courier; background-color:#fcfcfc; font-s
 
 pre	{
 	font-family:Menlo, Monaco, Courier;
-	white-space:nowrap;
 	/*border: 1px solid #ddd;*/
 	padding:20px;
 	background-color:#fdfdfd;
