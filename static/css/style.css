@@ -191,8 +191,8 @@ li	{  list-style-position:inside; }
 /* Line Height */
 #post-body, p { line-height:1.7; }
 
-b, strong { font-weight: 500;
-  color: #1E2025; }
+b, strong { font-weight: 1000;
+  color: #fefefe; }
 em, i { font-style: italic; }
 
 #title {
@@ -238,7 +238,8 @@ em, i { font-style: italic; }
 .post h2 {
 	margin-bottom: 10px;
 	  font: 300 24px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;
-      color: var(--cream)
+      color: var(--cream);
+	font-weight: 1000;
 }
 
 .post h2.subtitle {
@@ -265,7 +266,7 @@ em, i { font-style: italic; }
 	margin-top: 2px;
 }
 
-h3, h4, h5 { color:#ccc; }
+h3, h4, h5 { color:#fff; }
 
 h3 { font-size:20px; font-weight: 400; }
 h4 { font-size:16px; font-weight:bold; }
